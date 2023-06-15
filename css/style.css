@@ -157,7 +157,7 @@ body {
 .contact h2 {
   text-align: center;
   font-size: 2.6rem;
-  margin-bottom: 3rem;
+  margin-bottom: 4rem;
 }
 
 .about h2 span,
@@ -301,7 +301,7 @@ body {
   .navbar .navbar-nav a {
     color: var(--bg);
     display: block;
-    margin: 1.5rem;
+    margin: 1rem;
     padding: 0.5rem;
     font-size: 2rem;
   }
